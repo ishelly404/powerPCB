@@ -21,4 +21,4 @@ PA1206FRF070R002L -- shunt resistor
 
 2x CRCW08054K70FKEBC -- pull up i2c
 
-C0805C103K1RACTU -- current monitor bypass capacitor 0.01 uF
+C0805C104J5RACTU -- current monitor bypass capacitor 0.1 uF
